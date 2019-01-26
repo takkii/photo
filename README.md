@@ -20,6 +20,6 @@
 
 ![Twitter背景](https://github.com/takkii/photo/blob/master/images/Twitter_bg2.gif)
 
-![Twitterアイコン](https://github.com/takkii/photo/blob/master/images/Twitter.gif)
+![Twitterアイコン](https://github.com/takkii/photo/blob/master/images/twitter.gif)
 
 ![Deoplete](https://github.com/takkii/photo/blob/master/images/deoplete.gif)
