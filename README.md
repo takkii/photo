@@ -8,18 +8,18 @@
 
 画像リンク
 
-![尊敬する祖父から贈答品](https://github.com/takkii/photo/blob/master/images/taka.jpg)
+![尊敬する祖父から贈答品](https://github.com/takkii/photo/blob/main/images/taka.jpg)
 
-![zinbei、windows版のmini_test結果](https://github.com/takkii/photo/blob/master/images/minitest.gif)
+![zinbei、windows版のmini_test結果](https://github.com/takkii/photo/blob/main/images/minitest.gif)
 
-![logo](https://github.com/takkii/photo/blob/master/images/logo.jpeg)
+![logo](https://github.com/takkii/photo/blob/main/images/logo.jpeg)
 
-![tweet_log](https://github.com/takkii/photo/blob/master/images/tweet_icon.gif)
+![tweet_log](https://github.com/takkii/photo/blob/main/images/tweet_icon.gif)
 
-![gaogaiga](https://github.com/takkii/photo/blob/master/images/gaogaiga.gif)
+![gaogaiga](https://github.com/takkii/photo/blob/main/images/gaogaiga.gif)
 
-![Twitter背景](https://github.com/takkii/photo/blob/master/images/Twitter_bg2.gif)
+![Twitter背景](https://github.com/takkii/photo/blob/main/images/Twitter_bg2.gif)
 
-![Twitterアイコン](https://github.com/takkii/photo/blob/master/images/twitter.gif)
+![Twitterアイコン](https://github.com/takkii/photo/blob/main/images/twitter.gif)
 
-![Deoplete](https://github.com/takkii/photo/blob/master/images/deoplete.gif)
+![Deoplete](https://github.com/takkii/photo/blob/main/images/deoplete.gif)
